@@ -46,3 +46,13 @@
     background-color: #2c3e50;
     bottom:0;
 }
+.top-section{
+    background-color: rgb(0, 181, 204);
+    color:white;
+}
+.top-section a{
+    color: white;
+}
+.quality-img{
+    width:75px;
+}
